@@ -1,0 +1,5 @@
+{
+  "name": "Optical Lens Inventory Manager",
+  "description": "An application to manage optical lens inventory based on various specifications. Users can filter by lens characteristics, view stock levels on a grid, and edit quantities and availability using a color-coded system.",
+  "requestFramePermissions": []
+}
